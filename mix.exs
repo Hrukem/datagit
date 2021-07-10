@@ -45,7 +45,8 @@ defmodule Datagit.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:httpoison, "~> 1.8"},
-      {:plug_cowboy, "~> 2.0"}
+      {:plug_cowboy, "~> 2.0"},
+      {:gen_stage, "~> 1.0.0"}
     ]
   end
 
